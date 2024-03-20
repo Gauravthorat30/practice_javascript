@@ -1,2 +1,2 @@
 # assignments
-my name gaurav
+this is my assignments repositories
