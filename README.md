@@ -1,2 +1,2 @@
 # assignments
-this is my assignments repositories.
+this is my assignments repositories
