@@ -1,2 +1,2 @@
-# assignments
-this is my assignments repositories
+# javascript
+This is my file where i practice javascript.
