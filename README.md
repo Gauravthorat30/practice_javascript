@@ -1,2 +1,2 @@
 # javascript
-This is my file where i practice javascript.
+This is my repository where i practice javascript.
